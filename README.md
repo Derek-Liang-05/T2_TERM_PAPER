@@ -1,1 +1,1 @@
-THIS IS THE TECH2 ASSIGNMENT BY PAULINA, EMIL and DEREK
+This is the Tech2 assingment by Paulina, Emil and Derek
