@@ -1,0 +1,10 @@
+name: tech2_termpaper
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas=2.2
+  - matplotlib=3.8
+  - numpy=1.26
+  - notebook
+  - openpyxl=3.1
